@@ -49,8 +49,11 @@ body {
 }
 
 .logo-img {
-    height: 28px;
+    /* height: 28px;
     width: 75px;
+    margin-left: 20px; */
+    object-fit: contain;
+    height: 37px;
     margin-left: 20px;
 }
 
