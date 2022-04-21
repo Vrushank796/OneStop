@@ -1,2 +1,0 @@
-# OneStop
-E-commerce Website
