@@ -1,7 +1,7 @@
 # OneStop
 It's a E-commerce project developed using PHP. 
 
-##Project Description:
+## Project Description:
 
 - We have developed an Ecommerce Website where customer can buy of variety clothes.
  
@@ -18,7 +18,7 @@ purchase the product.
 been implemented in order to make it more reliable.
 
 
-##Targeted Audience and objectives:
+## Targeted Audience and objectives:
 
 - In this contemporary era, to reduce the adverse effect of Covid-19 more people are
 inclined towards online shopping that encourages us to build an E- Commerce website.
